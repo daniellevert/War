@@ -1,4 +1,4 @@
-# War
+# War App
 A simple card game for iOS.
 
 Created by Daniel LeVert to get exposure to iOS development. 
